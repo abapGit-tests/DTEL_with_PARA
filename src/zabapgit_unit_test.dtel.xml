@@ -20,10 +20,6 @@
     <LENG>000002</LENG>
     <OUTPUTLEN>000002</OUTPUTLEN>
    </DD04V>
-   <TPARA>
-    <PARAMID>ZABAPGIT_UNIT_TEST</PARAMID>
-    <PARTEXT>unit test</PARTEXT>
-   </TPARA>
   </asx:values>
  </asx:abap>
 </abapGit>
